@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/joe/PC/Programming/C#/EmployeesManager/EmployeesManager.csproj": {}
+    "/home/joe/PC/Programming/C#/Console/EmployeesManager/EmployeesManager.csproj": {}
   },
   "projects": {
-    "/home/joe/PC/Programming/C#/EmployeesManager/EmployeesManager.csproj": {
+    "/home/joe/PC/Programming/C#/Console/EmployeesManager/EmployeesManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joe/PC/Programming/C#/EmployeesManager/EmployeesManager.csproj",
+        "projectUniqueName": "/home/joe/PC/Programming/C#/Console/EmployeesManager/EmployeesManager.csproj",
         "projectName": "EmployeesManager",
-        "projectPath": "/home/joe/PC/Programming/C#/EmployeesManager/EmployeesManager.csproj",
+        "projectPath": "/home/joe/PC/Programming/C#/Console/EmployeesManager/EmployeesManager.csproj",
         "packagesPath": "/home/joe/.nuget/packages/",
-        "outputPath": "/home/joe/PC/Programming/C#/EmployeesManager/obj/",
+        "outputPath": "/home/joe/PC/Programming/C#/Console/EmployeesManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joe/.nuget/NuGet/NuGet.Config"

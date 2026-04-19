@@ -36,6 +36,8 @@ public class Employee
                 System.Console.WriteLine($"there was an error while adding Employee [{Employee.Name}] to the Database, error message: {e.Message}");                
             }
         }
+
+        System.Console.WriteLine("Employee Added.\n");
     }
 
     public Employee Retrieve(int id)
@@ -84,6 +86,8 @@ public class Employee
                 System.Console.WriteLine($"there was an error while retrieving Employee [{id}] from the Database, error message: {e.Message}");                
             }
         }
+
+        System.Console.WriteLine("Employee Updated.\n");
     }
 
     public void Delete(Employee employee)
@@ -106,6 +110,8 @@ public class Employee
                 System.Console.WriteLine($"there was an error while removing Employee [{employee.Id}] from the Database, error message: {e.Message}");                
             }
         }
+
+        System.Console.WriteLine("Employee Deleted.\n");
     }
 
     public List<Employee> GetEmployeesList()

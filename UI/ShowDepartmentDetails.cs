@@ -7,11 +7,11 @@ public class ShowDepartmentDetails
     {
         Console.Clear();
 
-        System.Console.WriteLine("=== Employee Card ===");
+        System.Console.WriteLine("=== Department Details ===");
         System.Console.WriteLine($"Department ID: {Department.Id}");
         System.Console.WriteLine($"Department Name: {Department.Name}");
         System.Console.WriteLine($"Department location: {Department.Location}");
-    
+
         System.Console.WriteLine("\n");
     }
 }
